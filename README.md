@@ -12,7 +12,7 @@ Olá! Meu nome é **Richeliane Moura**, sou estudante de Análise e Desenvolvime
 
 ## 🌐 Acesse o site
 
-➡️ [Clique aqui para ver o site publicado](https://SEU_USUARIO.github.io/site-redes-sociais)
+➡️ [Clique aqui para ver o site publicado](https://richeliane-moura.github.io/site-redes-sociais/)
 
 > Substitua o link acima com a URL gerada pelo GitHub Pages.
 
